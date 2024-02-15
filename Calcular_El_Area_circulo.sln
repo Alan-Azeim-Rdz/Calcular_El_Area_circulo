@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcular_El_Area_circulo", "Calcular_El_Area_circulo\Calcular_El_Area_circulo.csproj", "{FFB048D5-0D90-41E7-8DB1-4FD2E248FF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB048D5-0D90-41E7-8DB1-4FD2E248FF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB048D5-0D90-41E7-8DB1-4FD2E248FF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB048D5-0D90-41E7-8DB1-4FD2E248FF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB048D5-0D90-41E7-8DB1-4FD2E248FF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61A858AD-2793-4A7B-A65C-E0DD189C003E}
+	EndGlobalSection
+EndGlobal
